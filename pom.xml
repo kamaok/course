@@ -107,12 +107,12 @@
 <distributionManagement>
 <repository>
       <id>my-nexus-maven-repo</id>
-      <url>http://18.185.132.141:8081/repository/my-maven-repo</url>
+      <url>http://192.168.10.56:8081/repository/my-maven-repo</url>
    </repository>
 
    <snapshotRepository>
       <id>my-nexus-maven-repo</id>
-      <url>http://18.185.132.141:8081/repository/my-maven-repo</url>
+      <url>http://192.168.10.56:8081/repository/my-maven-repo</url>
    </snapshotRepository>
 </distributionManagement>
 
